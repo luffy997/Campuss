@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-email-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￨ﾷﾯ￩ﾣﾞ
+Implementation-Vendor-Id: com.kellen5l.tool
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/campus/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
