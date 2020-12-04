@@ -1,4 +1,4 @@
-# Campuss-
+# Campuss
 Campuss+微信小程序后端源码
 技术栈：
 SpringBoot+Mybatis+Druid+Mysql
